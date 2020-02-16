@@ -18,6 +18,7 @@
   "homepage": "https://github.com/Lenkly/okonomi-love#readme",
   "dependencies": {
     "htmlhint": "^0.11.0",
+    "mdbootstrap": "^4.12.0",
     "prettier": "^1.19.1"
   }
 }
